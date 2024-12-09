@@ -1,0 +1,13 @@
+.div-img{
+    display: flex;
+    justify-content: center;
+    }
+    .img{
+        width: 200px;
+        border-radius: 75px;
+    }
+    .fan-logo{
+        width: 100px;
+        margin-left: 50px;
+        border-radius: 50px;
+    }
